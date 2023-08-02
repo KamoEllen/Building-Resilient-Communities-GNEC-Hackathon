@@ -18,7 +18,7 @@ The GNEC Hackathon is an exceptional platform where I can utilize my expertise i
 
 5. **Collaborative Community:** I am eager to collaborate with like-minded individuals from diverse backgrounds, fostering a collaborative spirit for positive change.
 
-![UN SDGs](link-to-SDGs-image.png)
+![UN SDGs](https://github.com/KamoEllen/GNEC-Hackathon/blob/main/GNEC.png)
 
 I am excited to be a part of this hackathon, as it allows me to contribute my skills and passion to a better world. Together, let's make a lasting impact on the United Nations Sustainable Development Goals and create a brighter future for all.
 
