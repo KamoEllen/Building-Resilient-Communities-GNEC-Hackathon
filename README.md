@@ -1,6 +1,6 @@
 **GNEC Hackathon - Making a Positive Impact on a Global Scale**
 
-![GNEC Hackathon](link-to-image.png)
+![GNEC Hackathon](https://github.com/KamoEllen/GNEC-Hackathon/blob/main/GNEC%20Hackathon2.jpg)
 
 > *"I joined the GNEC Hackathon because it offered an exciting opportunity to showcase my web design, Figma, and research skills while addressing global issues."*
 
