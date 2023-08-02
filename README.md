@@ -5,6 +5,8 @@
 
 [Figma Link](https://www.figma.com/proto/PQBywC5I0oWJLPjQNlj7lR/GNEC-HACKATHON?type=design&node-id=0-3&t=5cl7eWfeFQgf8sSC-1&scaling=scale-down&page-id=0%3A1&mode=design)
 
+[Hackathon , give it a like](https://devpost.com/software/building-resilient-communities)
+
 
 The GNEC Hackathon is an exceptional platform where I can utilize my expertise in web design, Figma, and research to contribute towards positive change on a global level. With a strong focus on the United Nations Sustainable Development Goals (UN SDGs), the hackathon's theme resonates deeply with my values and passion for making a meaningful impact.
 
